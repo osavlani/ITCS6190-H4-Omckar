@@ -1,4 +1,3 @@
-# Create your own input dataset
 Polska gurom
 Lalala lala
 Suii
